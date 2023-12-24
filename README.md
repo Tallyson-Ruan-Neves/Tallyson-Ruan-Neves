@@ -19,7 +19,13 @@ Olá, eu sou Tallyson tenho 16 anos, sou também um aprendiz entusiasta que est�
   - JavaScript (Front-end: React; Back-end: Node.js)
   - C/C++
   - E acumulando...
-  
+<div style="display: inline_block">
+  <img align="center" alt="Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
+  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+</div>
+
 - **Ferramentas e Tecnologias:**
   - Git
   - Github
@@ -74,3 +80,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
