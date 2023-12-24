@@ -4,7 +4,7 @@ Olá, eu sou Tallyson tenho 16 anos, sou também um aprendiz entusiasta que est�
 
 ## Sobre Mim
 
-![Sobre Mim](https://github-readme-stats.vercel.app/api?username=Tallyson-Ruan-Neves&show_icons=true&theme=radical&hide=contribs,prs)
+![Sobre Mim](https://github-readme-stats.vercel.app/api?username=Tallyson-Ruan-Neves&show_icons=true&theme=gotham&locale=pt-br&hide=contribs,prs)
 
 - 🌱 Atualmente estou aprendendo Python, JavaScript (React e Node.js) e C/C++.
 - 🔍 Estou em busca de oportunidades para colaborar em projetos interessantes.
@@ -12,8 +12,9 @@ Olá, eu sou Tallyson tenho 16 anos, sou também um aprendiz entusiasta que est�
 - 📖 Adoro MATEMATICA e FISICA.
 
 ## Habilidades e Ferramentas
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tallyson-Ruan-Neves&show_icons=true&theme=gotham&locale=pt-br&layout=compact)](https://github.com/Tallyson-Ruan-Neves/github-readme-stats)
 - **Linguagens de Programação:**
+
   - Python
   - JavaScript (Front-end: React; Back-end: Node.js)
   - C/C++
