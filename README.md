@@ -1,12 +1,13 @@
-# Bem-vindo ao meu Perfil GitHub 👋
+### Bem-vindo 👋
 
-Olá, eu sou Tallysonttenho 16 anos, sou também um aprendiz entusiasta que está explorando o vasto mundo da programação. Atualmente, meu foco está em aprender e aprimorar minhas habilidades em Python, JavaScript (tanto no front-end quanto no back-end) e C/C++. Estou ansioso para expandir meu conhecimento em outras áreas no futuro.
+Olá, eu sou Tallyson tenho 16 anos, sou também um aprendiz entusiasta que está explorando o vasto mundo da programação. Atualmente, meu foco está em aprender e aprimorar minhas habilidades em Python, JavaScript (tanto no front-end quanto no back-end) e C/C++ e apreender outras linguagens. Estou ansioso para expandir meu conhecimento em outras áreas no futuro. 💻🖱
 
 ## Sobre Mim
 
 - 🌱 Atualmente estou aprendendo Python, JavaScript (React e Node.js) e C/C++.
 - 🔍 Estou em busca de oportunidades para colaborar em projetos interessantes.
 - 🤔 Estou aberto a aprender novas tecnologias e conceitos.
+- 📖 Adoro MATEMATICA e FISICA.
 
 ## Habilidades e Ferramentas
 
@@ -14,31 +15,42 @@ Olá, eu sou Tallysonttenho 16 anos, sou também um aprendiz entusiasta que est�
   - Python
   - JavaScript (Front-end: React; Back-end: Node.js)
   - C/C++
+  - E acumulando...
   
 - **Ferramentas e Tecnologias:**
   - Git
+  - Github
   - VS Code
-  - [Incluir outras ferramentas ou tecnologias relevantes]
-
+  
+- **Frameworks em todas as linguagens:**
+  - Pygame
+  - Flask
+  - React
+  - Next.js
+  - Express
+  - Socket.io
+<!--
 ## Projetos
 
 Destaco alguns dos meus projetos mais recentes:
 
 - [Nome do Projeto 1](link para o projeto)
 - [Nome do Projeto 2](link para o projeto)
+-->
 
 ## Objetivos Futuros
 
 - [ ] Contribuir para projetos de código aberto.
-- [ ] Aprender [inserir tecnologia ou linguagem específica].
+- [ ] Aprender Docker, Machine Learning, C# ...
 - [ ] Participar de hackathons ou eventos relacionados à programação.
-
+<!--
 ## Contato
 
 Sinta-se à vontade para entrar em contato comigo por meio das seguintes plataformas:
 
 - [LinkedIn](link para o LinkedIn)
 - [Email](seu@email.com)
+-->
 
 ## Agradecimentos
 
