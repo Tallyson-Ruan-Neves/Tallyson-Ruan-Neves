@@ -1,12 +1,12 @@
 ### Bem-vindo 👋
 
-Olá, eu sou Tallyson tenho 16 anos, sou também um aprendiz entusiasta que está explorando o vasto mundo da programação. Atualmente, meu foco está em aprender e aprimorar minhas habilidades em Python, JavaScript (tanto no front-end quanto no back-end) e C/C++ e apreender outras linguagens. Estou ansioso para expandir meu conhecimento em outras áreas no futuro. 💻🖱
+Olá, eu sou Tallyson tenho 16 anos, sou também um aprendiz entusiasta que está explorando o vasto mundo da programação. Atualmente, meu foco está em aprender e aprimorar minhas habilidades em Python, JavaScript (tanto no front-end quanto no back-end) e apreender outras linguagens. Estou ansioso para expandir meu conhecimento em outras áreas no futuro. 💻🖱
 
 ## Sobre Mim
 
 ![Sobre Mim](https://github-readme-stats.vercel.app/api?username=Tallyson-Ruan-Neves&show_icons=true&theme=gotham&locale=pt-br&hide=contribs,prs)
 
-- 🌱 Atualmente estou aprendendo Python, JavaScript (React e Node.js) e C/C++.
+- 🌱 Atualmente estou aprendendo Python (Flask), JavaScript (React e Node.js).
 - 🔍 Estou em busca de oportunidades para colaborar em projetos interessantes.
 - 🤔 Estou aberto a aprender novas tecnologias e conceitos.
 - 📖 Adoro MATEMATICA e FISICA.
@@ -17,13 +17,10 @@ Olá, eu sou Tallyson tenho 16 anos, sou também um aprendiz entusiasta que est�
 
   - Python
   - JavaScript (Front-end: React; Back-end: Node.js)
-  - C/C++
   - E acumulando...
 <div style="display: inline_block">
   <img align="center" alt="Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
-  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
 </div>
 
 - **Ferramentas e Tecnologias:**
